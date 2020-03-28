@@ -1,8 +1,8 @@
 # example-documents
-This repository contains the documents that are used as examples in my BA thesis.  
-All documents stand under the "Data licence Germany – attribution – version 2.0".
+This repository contains the documents that are used as examples in my BA thesis.\
+All documents stand under the "Data licence Germany – attribution – version 2.0".\
 
-Each folder contains the selected document as well as the most similar document found by each of the models.
+Each folder contains the selected document as well as the most similar document found by each of the models.\
 The documents are named accordingly. 
 
 Examples of how the documents are labeled:
