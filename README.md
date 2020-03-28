@@ -12,6 +12,8 @@ The documents are named accordingly.
 "example-4-found-document-doc2vecc-4": The document that was found by the model Doc2VecC 4.\
 "example-4-found-document-doc2vecc-1-and-2-and-3-and-5": The document that was found by the models Doc2VecC 1, Doc2VecC 2, Doc2VecC 3, Doc2VecC 5.
 
+<br/><br/>
+
 #### The following models were used:
 Elastic:    The Elasticsearch "more like this" query.\
 Doc2VecC 1: Model with the hyperparameter configuration used in the original example\
