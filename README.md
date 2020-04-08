@@ -1,6 +1,6 @@
 # Example documents
 This repository contains the documents that are used as examples in my BA thesis.\
-**All documents stand under the license "Data licence Germany – attribution – version 2.0" and were retrieved from the Transparenzportal Hamburg (http://transparenz.hamburg.de/) **
+**All documents stand under the license "Data licence Germany – attribution – version 2.0" and were retrieved from the Transparenzportal Hamburg (http://transparenz.hamburg.de/)**
 
 Each folder contains the selected document as well as the most similar document found by each of the models.\
 The documents are named accordingly. 
